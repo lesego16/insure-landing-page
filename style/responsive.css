@@ -134,7 +134,6 @@
       #nav-items > li:hover{
         padding: 10px;
         border: 1px solid var(--VeryLightGray);
-        background-color: red;
       }
 
      
