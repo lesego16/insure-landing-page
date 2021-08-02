@@ -481,7 +481,7 @@ ul.logo{
 
       .mobile-nav{
         background-color: var(--VeryDarkViolet);
-        background-image: url('/images/bg-pattern-mobile-nav.svg');
+        background-image: url('../images/bg-pattern-mobile-nav.svg');
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% 40%;
@@ -593,7 +593,7 @@ ul.logo{
     #blog{
       margin-bottom: 150px;
       padding: 30px 20px;
-      background-image: url('/images/bg-pattern-intro-right-mobile.svg');
+      background-image: url('../images/bg-pattern-intro-right-mobile.svg');
       background-repeat: no-repeat;
       background-position: right;
     }
@@ -609,7 +609,7 @@ ul.logo{
 /*********************footer media query**************************/
 
     footer{
-      background-image: url('/images/bg-pattern-footer-mobile.svg');
+      background-image: url('../images/bg-pattern-footer-mobile.svg');
       background-repeat: no-repeat;
       background-size: 100%;
     }
